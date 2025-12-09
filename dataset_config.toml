@@ -1,9 +1,9 @@
 [general]
-resolution = [1200, 1800] 
+resolution = [1024, 1536] 
 caption_extension = ".txt"
 batch_size = 2
 enable_bucket = true
-bucket_no_upscale = false
+bucket_no_upscale = true
 
 [[datasets]]
 image_directory = "dataset_nhat_binh/images"
