@@ -1,5 +1,5 @@
 [general]
-resolution = [1024, 1536] 
+resolution = [1024, 1024] 
 caption_extension = ".txt"
 batch_size = 2
 enable_bucket = true
